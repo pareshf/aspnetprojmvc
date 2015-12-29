@@ -23,5 +23,8 @@ namespace MvcApplication1
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
+
+        // hello
+        // hello
     }
 }
